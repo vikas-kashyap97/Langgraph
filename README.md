@@ -6,11 +6,11 @@ This repo showcases a range of step-by-step examples—from foundational single-
 ## 🚀 Features  
 
 
-- 📦 Ready-to-use LangGraph workflows  
-- 🧠 Examples of memory-aware and persistent agents  
-- 🔗 Prompt chaining and multi-step reasoning  
-- ✍️ Application-specific workflows (chatbots, essay generators, review replies, etc.)  
-- 🎯 Beginner-friendly, with notebooks for testing and learning  
+- 📦 Ready-to-use LangGraph workflows.  
+- 🧠 Examples of memory-aware and persistent agents.  
+- 🔗 Prompt chaining and multi-step reasoning.  
+- ✍️ Application-specific workflows (chatbots, essay generators, review replies, etc.).  
+- 🎯 Beginner-friendly, with notebooks for testing and learning. 
 
 ---
 
